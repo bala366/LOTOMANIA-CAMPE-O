@@ -1,0 +1,1 @@
+Cole no GitHub em .github/workflows/android-apk.yml exatamente o conteudo do arquivo .github/workflows/android-apk.yml incluido neste projeto.
